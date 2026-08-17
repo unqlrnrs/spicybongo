@@ -162,3 +162,13 @@ Maggot King,33628,Maggot King,Stymphike tartare
 Fremennik salvage,7944,Salvaging,Raw monkfish
 Monk,526,Monk,Bones
 Mad Angel,21726,Mad Angel,Granite dust
+Rewards Guardian,26792,GOTR,Abyssal pearls
+Reward pool,25559,Tempoross,Spirit flakes
+Lizardman shaman,532,Lizardman shamans,Big bones
+Vampyre kraken,395,Sailing Contracts,Raw sea turtle
+Armoured kraken,395,Sailing Contracts,Raw sea turtle
+Venator,526,Venators,Bones
+Mithril dragon,536,Mithril dragons,Dragon bones
+Imp,25766,Champion Scroll,Fiendish ashes
+Crystal impling,23962,Crystal impling,Crystal shard
+Araxxor,385,Araxxor,Shark
