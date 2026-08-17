@@ -161,3 +161,4 @@ Brutus,1739,Brutus,Cowhide
 Maggot King,33628,Maggot King,Stymphike tartare
 Fremennik salvage,7944,Salvaging,Raw monkfish
 Monk,526,Monk,Bones
+Mad Angel,21726,Mad Angel,Granite dust
