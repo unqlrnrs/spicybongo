@@ -1,0 +1,162 @@
+Brutus,33093,Brutus,Cow slippers
+King Black Dragon,7980,King Black Dragon,Kbd heads
+Tombs of Amascut,27277,TOA 1,Tumeken's shadow (uncharged)
+Tombs of Amascut (XM),27277,TOA 1,Tumeken's shadow (uncharged)
+Tombs of Amascut,27226,TOA 1,Masori mask
+Tombs of Amascut (XM),27226,TOA 1,Masori mask
+Tombs of Amascut,25975,TOA 1,Lightbearer
+Tombs of Amascut (XM),25975,TOA 1,Lightbearer
+Tombs of Amascut,26219,TOA 2,Osmumten's fang
+Tombs of Amascut (XM),26219,TOA 2,Osmumten's fang
+Tombs of Amascut,27229,TOA 2,Masori body
+Tombs of Amascut (XM),27229,TOA 2,Masori body
+Barrows,4753,Barrows,Verac's helm
+Barrows,4757,Barrows,Verac's brassard
+Scurrius,10976,Scurrius,Long bone
+Dagannoth Rex,1442,Dagganoth Kings,Fire talisman
+Dagannoth Prime,1442,Dagganoth Kings,Fire talisman
+Dagannoth Supreme,1442,Dagganoth Kings,Fire talisman
+Lunar chest,29000,Moons of Peril,Eclipse atlatl
+Lunar chest,29010,Moons of Peril,Eclipse moon helm
+Lunar chest,29004,Moons of Peril,Eclipse moon chestplate
+Lunar chest,29007,Moons of Peril,Eclipse moon tassets
+Lunar chest,28997,Moons of Peril,Dual macuahuitl
+Lunar chest,29028,Moons of Peril,Blood moon helm
+Lunar chest,29022,Moons of Peril,Blood moon chestplate
+Lunar chest,29025,Moons of Peril,Blood moon tassets
+Lunar chest,28988,Moons of Peril,Blue moon spear
+Lunar chest,29019,Moons of Peril,Blue moon helm
+Lunar chest,29013,Moons of Peril,Blue moon chestplate
+Lunar chest,29016,Moons of Peril,Blue moon tassets
+The Hueycoatl,30070,Hueycoatl,Dragon hunter wand
+Branda the Fire Queen,30631,Royal Titans,Fire element staff crown
+Eldric the Ice King,30628,Royal Titans,Ice element staff crown
+Theatre of Blood,22486,TOB 1,Scythe of vitur (uncharged)
+Theatre of Blood (HM),22486,TOB 1,Scythe of vitur (uncharged)
+Theatre of Blood,22477,TOB 1,Avernic defender hilt
+Theatre of Blood (HM),22477,TOB 1,Avernic defender hilt
+Theatre of Blood,22324,TOB 2,Ghrazi rapier
+Theatre of Blood (HM),22324,TOB 2,Ghrazi rapier
+Theatre of Blood,22481,TOB 2,Sanguinesti staff (uncharged)
+Theatre of Blood (HM),22481,TOB 2,Sanguinesti staff (uncharged)
+Theatre of Blood,22326,TOB 2,Justiciar faceguard
+Theatre of Blood (HM),22326,TOB 2,Justiciar faceguard
+Theatre of Blood,22327,TOB 2,Justiciar chestguard
+Theatre of Blood (HM),22327,TOB 2,Justiciar chestguard
+Theatre of Blood,22328,TOB 2,Justiciar legguards
+Theatre of Blood (HM),22328,TOB 2,Justiciar legguards
+Tormented Demon,29574,Tormented Demons,Burning claw
+Demonic gorilla,19589,Demonic Gorillas,Heavy frame
+Demonic gorilla,19610,Demonic Gorillas,Monkey tail
+General Graardor,11812,General Graardor,Bandos hilt
+Mad Angel,34027,Mad Angel,Hallowfell
+Zulrah,12922,Zulrah,Tanzanite fang
+Zulrah,12932,Zulrah,Magic fang
+Vorkath,22111,Vorkath,Dragonbone necklace
+Vorkath,5288,Vorkath,Papaya tree seed
+Phantom Muspah,5300,Phantom Muspah,Snapdragon seed
+Corporeal Beast,12833,Corporeal Beast,Holy elixir
+Giant mole,2363,Giant mole,Runite bar
+Giant mole,12646,Giant mole,Baby mole
+Chambers of Xeric,21003,COX 1,Elder maul
+Chambers of Xeric (CM),21003,COX 1,Elder maul
+Chambers of Xeric,21018,COX 1,Ancestral hat
+Chambers of Xeric (CM),21018,COX 1,Ancestral hat
+Chambers of Xeric,21021,COX 1,Ancestral robe top
+Chambers of Xeric (CM),21021,COX 1,Ancestral robe top
+Chambers of Xeric,21024,COX 1,Ancestral robe bottom
+Chambers of Xeric (CM),21024,COX 1,Ancestral robe bottom
+Chambers of Xeric,21015,COX 1,Dinh's bulwark
+Chambers of Xeric (CM),21015,COX 1,Dinh's bulwark
+Chambers of Xeric,13652,COX 1,Dragon claws
+Chambers of Xeric (CM),13652,COX 1,Dragon claws
+Chambers of Xeric,21079,COX 1,Arcane prayer scroll
+Chambers of Xeric (CM),21079,COX 1,Arcane prayer scroll
+Chambers of Xeric,21034,COX 2,Dexterous prayer scroll
+Chambers of Xeric (CM),21034,COX 2,Dexterous prayer scroll
+Chambers of Xeric,21000,COX 2,Twisted buckler
+Chambers of Xeric (CM),21000,COX 2,Twisted buckler
+Chambers of Xeric,21012,COX 2,Dragon hunter crossbow
+Chambers of Xeric (CM),21012,COX 2,Dragon hunter crossbow
+Chambers of Xeric,20997,COX 2,Twisted bow
+Chambers of Xeric (CM),20997,COX 2,Twisted bow
+Chambers of Xeric,21043,COX 2,Kodai insignia
+Chambers of Xeric (CM),21043,COX 2,Kodai insignia
+Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed
+Amoxliatl,29889,Amoxliatl,Glacial temotli
+Callisto,12603,Callisto,Tyrannical ring
+Nightmare of Ashihama,24422,Nightmare of Ashihama,Nightmare staff
+Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
+Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
+Nightmare of Ashihama,24421,Nightmare of Ashihama,Inquisitor's plateskirt
+Nightmare of Ashihama,24417,Nightmare of Ashihama,Inquisitor's mace
+Nightmare of Ashihama,24517,Nightmare of Ashihama,Eldritch orb
+Nightmare of Ashihama,24514,Nightmare of Ashihama,Volatile orb
+Nightmare of Ashihama,24511,Nightmare of Ashihama,Harmonised orb
+Nightmare of Ashihama,24495,Nightmare of Ashihama,Jar of dreams
+Nightmare of Ashihama,24491,Nightmare of Ashihama,Little nightmare
+Phosani's Nightmare,24422,Phosani's Nightmare,Nightmare staff
+Phosani's Nightmare,24419,Phosani's Nightmare,Inquisitor's great helm
+Phosani's Nightmare,24420,Phosani's Nightmare,Inquisitor's hauberk
+Phosani's Nightmare,24421,Phosani's Nightmare,Inquisitor's plateskirt
+Phosani's Nightmare,24417,Phosani's Nightmare,Inquisitor's mace
+Phosani's Nightmare,24517,Phosani's Nightmare,Eldritch orb
+Phosani's Nightmare,24514,Phosani's Nightmare,Volatile orb
+Phosani's Nightmare,24511,Phosani's Nightmare,Harmonised orb
+Phosani's Nightmare,24495,Phosani's Nightmare,Jar of dreams
+Phosani's Nightmare,24491,Phosani's Nightmare,Little nightmare
+Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
+Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
+Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
+Doom of Mokhaiotl,31130,Doom of Mokhaiotl,Dom
+Nex,26235,Nex,Zaryte vambraces
+Nex,26376,Nex,Torva full helm (damaged)
+Nex,26378,Nex,Torva platebody (damaged)
+Nex,26380,Nex,Torva platelegs (damaged)
+Lizardman shaman,5317,Lizardman shamans,Spirit seed
+Maggot King,33634,Maggot King,Elder venator fang
+Maggot King,33631,Maggot King,Crimson kisten
+The Whisperer,28334,The Whisperer,Awakener's orb
+Vardorvis,28334,Vardorvis,Awakener's orb
+The Leviathan,28334,The Leviathan,Awakener's orb
+Duke Sucellus,28334,Duke Sucellus,Awakener's orb
+Golem Crafting,34024,Golem Crafting,Jeweller's chisel
+Venator,24777,Venators,Blood shard
+Blood-starved venator,24777,Venators,Blood shard
+Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
+Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
+Vampyre kraken,31949,Sailing Contracts,Bottled storm
+Armoured kraken,31949,Sailing Contracts,Bottled storm
+Reward pool,25559,Tempoross,Big harpoonfish
+Reward pool,25576,Tempoross,Tome of water (empty)
+Reward pool,21028,Tempoross,Dragon harpoon
+Reward pool,25602,Tempoross,Tiny tempor
+Shellbane gryphon,10976,Shellbane gryphon,Long bone
+Shellbane gryphon,31285,Shellbane gryphon,Gull
+Mithril dragon,987,Mithril dragons,Loop half of key
+Commander Zilyana,11814,Commander Zilyana,Saradomin hilt
+Commander Zilyana,11785,Commander Zilyana,Armadyl crossbow
+Imp,6803,Champion Scroll,Imp champion scroll
+Rewards Guardian,5516,GOTR,Elemental talisman
+Crystal impling,23943,Crystal implings,Elven signet
+Thermonuclear smoke devil,25524,Thermonuclear smoke devil,Jar of smoke
+Thermonuclear smoke devil,3140,Thermonuclear smoke devil,Dragon chainbody
+Thermonuclear smoke devil,12648,Thermonuclear smoke devil,Pet smoke devil
+Araxxor,29794,Araxxor,Noxious pommel
+Araxxor,29790,Araxxor,Noxious point
+Araxxor,29792,Araxxor,Noxious blade
+Araxxor,29799,Araxxor,Araxyte fang
+Grotesque Guardians,21736,Grotesque Guardians,Granite gloves
+Grotesque Guardians,21730,Grotesque Guardians,Black tourmaline core
+Small salvage,32863,Salvaging,Rusty locket
+Fishy salvage,32864,Salvaging,Mouldy block
+Barracuda salvage,32865,Salvaging,Dull knife
+Large salvage,32866,Salvaging,Broken compass
+Plundered salvage,32867,Salvaging,Rusty coin
+Martial salvage,32868,Salvaging,Broken sextant
+Fremennik salvage,32870,Salvaging,Smashed mirror
+Opulent salvage,32869,Salvaging,Mouldy doll
+Brutus,33093,Brutus,Raw t-bone steak
+Maggot King,33628,Maggot King,Stymphike tartare
+Fremennik salvage,7944,Salvaging,Raw monkfish
+Monk,526,Monk,Bones
