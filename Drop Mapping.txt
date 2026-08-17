@@ -157,6 +157,7 @@ Martial salvage,32868,Salvaging,Broken sextant
 Fremennik salvage,32870,Salvaging,Smashed mirror
 Opulent salvage,32869,Salvaging,Mouldy doll
 Brutus,884,Brutus,Iron arrow
+Brutus,1739,Brutus, Cowhide
 Maggot King,33628,Maggot King,Stymphike tartare
 Fremennik salvage,7944,Salvaging,Raw monkfish
 Monk,526,Monk,Bones
