@@ -84,12 +84,12 @@ Chambers of Xeric,21043,COX 2,Kodai insignia
 Chambers of Xeric (CM),21043,COX 2,Kodai insignia
 Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed
 Amoxliatl,29889,Amoxliatl,Glacial temotli
-Callisto,5558,Callisto/ Artio,Callisto cub
-Artio,5558,Callisto/ Artio,Callisto cub
-Callisto,10977,Callisto/ Artio,Curved bone
-Artio,10977,Callisto/ Artio,Curved bone
-Callisto,12603,Callisto/ Artio,Tyrannical ring
-Artio,12603,Callisto/ Artio,Tyrannical ring
+Callisto,5558,Callisto/Artio,Callisto cub
+Artio,5558,Callisto/Artio,Callisto cub
+Callisto,10977,Callisto/Artio,Curved bone
+Artio,10977,Callisto/Artio,Curved bone
+Callisto,12603,Callisto/Artio,Tyrannical ring
+Artio,12603,Callisto/Artio,Tyrannical ring
 Nightmare of Ashihama,24422,Nightmare of Ashihama,Nightmare staff
 Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
 Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
