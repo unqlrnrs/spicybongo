@@ -84,7 +84,12 @@ Chambers of Xeric,21043,COX 2,Kodai insignia
 Chambers of Xeric (CM),21043,COX 2,Kodai insignia
 Corrupted Hunllef,4207,Corrupted Gauntlet,Crystal weapon seed
 Amoxliatl,29889,Amoxliatl,Glacial temotli
-Callisto,12603,Callisto,Tyrannical ring
+Callisto,5558,Callisto/ Artio,Callisto cub
+Artio,5558,Callisto/ Artio,Callisto cub
+Callisto,10977,Callisto/ Artio,Curved bone
+Artio,10977,Callisto/ Artio,Curved bone
+Callisto,12603,Callisto/ Artio,Tyrannical ring
+Artio,12603,Callisto/ Artio,Tyrannical ring
 Nightmare of Ashihama,24422,Nightmare of Ashihama,Nightmare staff
 Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
 Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
@@ -121,8 +126,9 @@ Vardorvis,28334,Vardorvis,Awakener's orb
 The Leviathan,28334,The Leviathan,Awakener's orb
 Duke Sucellus,28334,Duke Sucellus,Awakener's orb
 Golem Crafting,34024,Golem Crafting,Jeweller's chisel
-Venator,24777,Venators,Blood shard
-Blood-starved venator,24777,Venators,Blood shard
+Venator,24777,Venators/ Vyrewatch,Blood shard
+Vyrewatch Sentinel,24777,Venators/ Vyrewatch,Blood shard
+Blood-starved venator,24777,Venators/ Vyrewatch,Blood shard
 Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
 Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
 Vampyre kraken,31949,Sailing Contracts,Bottled storm
@@ -156,19 +162,3 @@ Plundered salvage,32867,Salvaging,Rusty coin
 Martial salvage,32868,Salvaging,Broken sextant
 Fremennik salvage,32870,Salvaging,Smashed mirror
 Opulent salvage,32869,Salvaging,Mouldy doll
-Brutus,884,Brutus,Iron arrow
-Brutus,1739,Brutus,Cowhide
-Maggot King,33628,Maggot King,Stymphike tartare
-Fremennik salvage,7944,Salvaging,Raw monkfish
-Monk,526,Monk,Bones
-Mad Angel,21726,Mad Angel,Granite dust
-Rewards Guardian,26792,GOTR,Abyssal pearls
-Reward pool,25559,Tempoross,Spirit flakes
-Lizardman shaman,532,Lizardman shamans,Big bones
-Vampyre kraken,395,Sailing Contracts,Raw sea turtle
-Armoured kraken,395,Sailing Contracts,Raw sea turtle
-Venator,526,Venators,Bones
-Mithril dragon,536,Mithril dragons,Dragon bones
-Imp,25766,Champion Scroll,Fiendish ashes
-Crystal impling,23962,Crystal impling,Crystal shard
-Araxxor,385,Araxxor,Shark
