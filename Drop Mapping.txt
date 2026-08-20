@@ -90,26 +90,26 @@ Callisto,10977,Callisto/Artio,Curved bone
 Artio,10977,Callisto/Artio,Curved bone
 Callisto,12603,Callisto/Artio,Tyrannical ring
 Artio,12603,Callisto/Artio,Tyrannical ring
-Nightmare of Ashihama,24422,Nightmare of Ashihama,Nightmare staff
-Nightmare of Ashihama,24419,Nightmare of Ashihama,Inquisitor's great helm
-Nightmare of Ashihama,24420,Nightmare of Ashihama,Inquisitor's hauberk
-Nightmare of Ashihama,24421,Nightmare of Ashihama,Inquisitor's plateskirt
-Nightmare of Ashihama,24417,Nightmare of Ashihama,Inquisitor's mace
-Nightmare of Ashihama,24517,Nightmare of Ashihama,Eldritch orb
-Nightmare of Ashihama,24514,Nightmare of Ashihama,Volatile orb
-Nightmare of Ashihama,24511,Nightmare of Ashihama,Harmonised orb
-Nightmare of Ashihama,24495,Nightmare of Ashihama,Jar of dreams
-Nightmare of Ashihama,24491,Nightmare of Ashihama,Little nightmare
-Phosani's Nightmare,24422,Phosani's Nightmare,Nightmare staff
-Phosani's Nightmare,24419,Phosani's Nightmare,Inquisitor's great helm
-Phosani's Nightmare,24420,Phosani's Nightmare,Inquisitor's hauberk
-Phosani's Nightmare,24421,Phosani's Nightmare,Inquisitor's plateskirt
-Phosani's Nightmare,24417,Phosani's Nightmare,Inquisitor's mace
-Phosani's Nightmare,24517,Phosani's Nightmare,Eldritch orb
-Phosani's Nightmare,24514,Phosani's Nightmare,Volatile orb
-Phosani's Nightmare,24511,Phosani's Nightmare,Harmonised orb
-Phosani's Nightmare,24495,Phosani's Nightmare,Jar of dreams
-Phosani's Nightmare,24491,Phosani's Nightmare,Little nightmare
+Nightmare of Ashihama,24422,Nightmare,Nightmare staff
+Nightmare of Ashihama,24419,Nightmare,Inquisitor's great helm
+Nightmare of Ashihama,24420,Nightmare,Inquisitor's hauberk
+Nightmare of Ashihama,24421,Nightmare,Inquisitor's plateskirt
+Nightmare of Ashihama,24417,Nightmare,Inquisitor's mace
+Nightmare of Ashihama,24517,Nightmare,Eldritch orb
+Nightmare of Ashihama,24514,Nightmare,Volatile orb
+Nightmare of Ashihama,24511,Nightmare,Harmonised orb
+Nightmare of Ashihama,24495,Nightmare,Jar of dreams
+Nightmare of Ashihama,24491,Nightmare,Little nightmare
+Phosani's Nightmare,24422,Nightmare,Nightmare staff
+Phosani's Nightmare,24419,Nightmare,Inquisitor's great helm
+Phosani's Nightmare,24420,Nightmare,Inquisitor's hauberk
+Phosani's Nightmare,24421,Nightmare,Inquisitor's plateskirt
+Phosani's Nightmare,24417,Nightmare,Inquisitor's mace
+Phosani's Nightmare,24517,Nightmare,Eldritch orb
+Phosani's Nightmare,24514,Nightmare,Volatile orb
+Phosani's Nightmare,24511,Nightmare,Harmonised orb
+Phosani's Nightmare,24495,Nightmare,Jar of dreams
+Phosani's Nightmare,24491, Nightmare,Little nightmare
 Doom of Mokhaiotl,31088,Doom of Mokhaiotl,Avernic treads
 Doom of Mokhaiotl,31115,Doom of Mokhaiotl,Eye of ayak (uncharged)
 Doom of Mokhaiotl,31109,Doom of Mokhaiotl,Mokhaiotl cloth
