@@ -56,8 +56,8 @@ Vorkath,22111,Vorkath,Dragonbone necklace
 Vorkath,5288,Vorkath,Papaya tree seed
 Phantom Muspah,5300,Phantom Muspah,Snapdragon seed
 Corporeal Beast,12833,Corporeal Beast,Holy elixir
-Giant mole,2363,Giant mole,Runite bar
-Giant mole,12646,Giant mole,Baby mole
+Giant mole,2363,Giant Mole,Runite bar
+Giant mole,12646,Giant Mole,Baby mole
 Chambers of Xeric,21003,COX 1,Elder maul
 Chambers of Xeric (CM),21003,COX 1,Elder maul
 Chambers of Xeric,21018,COX 1,Ancestral hat
