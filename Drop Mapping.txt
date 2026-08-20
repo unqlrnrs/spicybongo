@@ -118,36 +118,34 @@ Nex,26235,Nex,Zaryte vambraces
 Nex,26376,Nex,Torva full helm (damaged)
 Nex,26378,Nex,Torva platebody (damaged)
 Nex,26380,Nex,Torva platelegs (damaged)
-Lizardman shaman,5317,Lizardman shamans,Spirit seed
+Lizardman shaman,5317,Lizardman Shaman,Spirit seed
 Maggot King,33634,Maggot King,Elder venator fang
 Maggot King,33631,Maggot King,Crimson kisten
-The Whisperer,28334,The Whisperer,Awakener's orb
-Vardorvis,28334,Vardorvis,Awakener's orb
-The Leviathan,28334,The Leviathan,Awakener's orb
-Duke Sucellus,28334,Duke Sucellus,Awakener's orb
-Golem Crafting,34024,Golem Crafting,Jeweller's chisel
-Venator,24777,Venators/ Vyrewatch,Blood shard
-Vyrewatch Sentinel,24777,Venators/ Vyrewatch,Blood shard
-Blood-starved venator,24777,Venators/ Vyrewatch,Blood shard
+The Whisperer,28334,DT2,Awakener's orb
+Vardorvis,28334,DT2,Awakener's orb
+The Leviathan,28334,DT2,Awakener's orb
+Duke Sucellus,28334,DT2,Awakener's orb
+Venator,24777,Venators/Vyrewatch,Blood shard
+Vyrewatch Sentinel,24777,Venators/Vyrewatch,Blood shard
+Blood-starved venator,24777,Venators/Vyrewatch,Blood shard
 Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
 Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
-Vampyre kraken,31949,Sailing Contracts,Bottled storm
-Armoured kraken,31949,Sailing Contracts,Bottled storm
+Vampyre kraken,31949,Sailing Bounty,Bottled storm
+Armoured kraken,31949,Sailing Bounty,Bottled storm
 Reward pool,25559,Tempoross,Big harpoonfish
 Reward pool,25576,Tempoross,Tome of water (empty)
 Reward pool,21028,Tempoross,Dragon harpoon
 Reward pool,25602,Tempoross,Tiny tempor
-Shellbane gryphon,10976,Shellbane gryphon,Long bone
-Shellbane gryphon,31285,Shellbane gryphon,Gull
-Mithril dragon,987,Mithril dragons,Loop half of key
+Shellbane gryphon,10976,Shellbane Gryphon,Long bone
+Shellbane gryphon,31285,Shellbane Gryphon,Gull
+Mithril dragon,987,Mithril Dragon,Loop half of key
 Commander Zilyana,11814,Commander Zilyana,Saradomin hilt
 Commander Zilyana,11785,Commander Zilyana,Armadyl crossbow
 Imp,6803,Champion Scroll,Imp champion scroll
-Rewards Guardian,5516,GOTR,Elemental talisman
-Crystal impling,23943,Crystal implings,Elven signet
-Thermonuclear smoke devil,25524,Thermonuclear smoke devil,Jar of smoke
-Thermonuclear smoke devil,3140,Thermonuclear smoke devil,Dragon chainbody
-Thermonuclear smoke devil,12648,Thermonuclear smoke devil,Pet smoke devil
+Crystal impling,23943,Crystal Implings,Elven signet
+Thermonuclear smoke devil,25524,Thermonuclear Smoke Devil,Jar of smoke
+Thermonuclear smoke devil,3140,Thermonuclear Smoke Devil,Dragon chainbody
+Thermonuclear smoke devil,12648,Thermonuclear Smoke Devil,Pet smoke devil
 Araxxor,29794,Araxxor,Noxious pommel
 Araxxor,29790,Araxxor,Noxious point
 Araxxor,29792,Araxxor,Noxious blade
