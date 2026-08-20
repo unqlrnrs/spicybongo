@@ -128,7 +128,7 @@ Duke Sucellus,28334,DT2,Awakener's orb
 Venator,24777,Venators/Vyrewatch,Blood shard
 Vyrewatch Sentinel,24777,Venators/Vyrewatch,Blood shard
 Blood-starved venator,24777,Venators/Vyrewatch,Blood shard
-Alchemical Hydra,22988,Alchemical Hydra,Hydra tail (Alchemical Hydra)
+Alchemical Hydra,22988,Alchemical Hydra,Hydra tail
 Alchemical Hydra,22983,Alchemical Hydra,Hydra leather
 Vampyre kraken,31949,Sailing Bounty,Bottled storm
 Armoured kraken,31949,Sailing Bounty,Bottled storm
