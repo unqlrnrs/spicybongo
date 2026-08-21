@@ -160,3 +160,4 @@ Plundered salvage,32867,Salvaging,Rusty coin
 Martial salvage,32868,Salvaging,Broken sextant
 Fremennik salvage,32870,Salvaging,Smashed mirror
 Opulent salvage,32869,Salvaging,Mouldy doll
+Monk,526,Monk,Bones
