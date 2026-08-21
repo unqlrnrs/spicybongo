@@ -161,3 +161,7 @@ Martial salvage,32868,Salvaging,Broken sextant
 Fremennik salvage,32870,Salvaging,Smashed mirror
 Opulent salvage,32869,Salvaging,Mouldy doll
 Monk,526,Monk,Bones
+Yama,30759,Yama,Soulflame horn
+Yama,30750,Yama,Oathplate helm
+Yama,30753,Yama,Oathplate chest
+Yama,30756,Yama,Oathplate legs
