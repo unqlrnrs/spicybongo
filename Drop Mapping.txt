@@ -28,6 +28,18 @@ Lunar chest,28988,Moons of Peril,Blue moon spear
 Lunar chest,29019,Moons of Peril,Blue moon helm
 Lunar chest,29013,Moons of Peril,Blue moon chestplate
 Lunar chest,29016,Moons of Peril,Blue moon tassets
+Moons of Peril,29000,Moons of Peril,Eclipse atlatl
+Moons of Peril,29010,Moons of Peril,Eclipse moon helm
+Moons of Peril,29004,Moons of Peril,Eclipse moon chestplate
+Moons of Peril,29007,Moons of Peril,Eclipse moon tassets
+Moons of Peril,28997,Moons of Peril,Dual macuahuitl
+Moons of Peril,29028,Moons of Peril,Blood moon helm
+Moons of Peril,29022,Moons of Peril,Blood moon chestplate
+Moons of Peril,29025,Moons of Peril,Blood moon tassets
+Moons of Peril,28988,Moons of Peril,Blue moon spear
+Moons of Peril,29019,Moons of Peril,Blue moon helm
+Moons of Peril,29013,Moons of Peril,Blue moon chestplate
+Moons of Peril,29016,Moons of Peril,Blue moon tassets
 The Hueycoatl,30070,Hueycoatl,Dragon hunter wand
 Branda the Fire Queen,30631,Royal Titans,Fire element staff crown
 Eldric the Ice King,30628,Royal Titans,Ice element staff crown
