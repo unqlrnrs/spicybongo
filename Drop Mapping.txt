@@ -177,3 +177,34 @@ Yama,30759,Yama,Soulflame horn
 Yama,30750,Yama,Oathplate helm
 Yama,30753,Yama,Oathplate chest
 Yama,30756,Yama,Oathplate legs
+Vyre,24777,Venators/Vyrewatch,Blood shard
+Caninelle Draynar,24777,Venators/Vyrewatch,Blood shard
+Carnivus Belamorta,24777,Venators/Vyrewatch,Blood shard
+Diphylla Bechstein,24777,Venators/Vyrewatch,Blood shard
+Draconis Sanguine,24777,Venators/Vyrewatch,Blood shard
+Lasenna Rasputin,24777,Venators/Vyrewatch,Blood shard
+Mort Nightshade,24777,Venators/Vyrewatch,Blood shard
+Mortina Daubenton,24777,Venators/Vyrewatch,Blood shard
+Pipistrelle Draynar,24777,Venators/Vyrewatch,Blood shard
+Remus Kaninus,24777,Venators/Vyrewatch,Blood shard
+Valentin Rasputin,24777,Venators/Vyrewatch,Blood shard
+Vallessia Dracyula,24777,Venators/Vyrewatch,Blood shard
+Vallessia von Pitt,24777,Venators/Vyrewatch,Blood shard
+Vampyressa van Von,24777,Venators/Vyrewatch,Blood shard
+Vampyrus Diaemus,24777,Venators/Vyrewatch,Blood shard
+Violetta Sanguine,24777,Venators/Vyrewatch,Blood shard
+Vlad Bechstein,24777,Venators/Vyrewatch,Blood shard
+Vlad Diaemus,24777,Venators/Vyrewatch,Blood shard
+Vonnetta Varnis,24777,Venators/Vyrewatch,Blood shard
+Crimsonette van Marr,24777,Venators/Vyrewatch,Blood shard
+Grigor Rasputin,24777,Venators/Vyrewatch,Blood shard
+Vormar Vakan,24777,Venators/Vyrewatch,Blood shard
+Alek Constantine,24777,Venators/Vyrewatch,Blood shard
+Episcula Helsing,24777,Venators/Vyrewatch,Blood shard
+Haemas Lamescus,24777,Venators/Vyrewatch,Blood shard
+Misdrievus Shadum,24777,Venators/Vyrewatch,Blood shard
+Nakasa Jovkai,24777,Venators/Vyrewatch,Blood shard
+Natalidae Shadum,24777,Venators/Vyrewatch,Blood shard
+Noctillion Lugosi,24777,Venators/Vyrewatch,Blood shard
+Valentina Diaemus,24777,Venators/Vyrewatch,Blood shard
+Von van Von,24777,Venators/Vyrewatch,Blood shard
