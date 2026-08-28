@@ -10,6 +10,12 @@ Tombs of Amascut,26219,TOA 2,Osmumten's fang
 Tombs of Amascut (XM),26219,TOA 2,Osmumten's fang
 Tombs of Amascut,27229,TOA 2,Masori body
 Tombs of Amascut (XM),27229,TOA 2,Masori body
+Tombs of Amascut,5296,TOA 2B,Toadflax seed
+Tombs of Amascut (XM),5296,TOA 2B,Toadflax seed
+Tombs of Amascut,5295,TOA 2B,Ranarr seed
+Tombs of Amascut (XM),5295,TOA 2B,Ranarr seed
+Tombs of Amascut,5300,TOA 2B,Snapdragon seed
+Tombs of Amascut (XM),5300,TOA 2B,Snapdragon seed
 Barrows,4753,Barrows,Verac's helm
 Barrows,4757,Barrows,Verac's brassard
 Scurrius,10976,Scurrius,Long bone
